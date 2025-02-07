@@ -1,0 +1,2 @@
+# dojo
+Dojo de GO
